@@ -1,6 +1,6 @@
 ## Hi everyone, it's me, Consuelo, walking towards the exciting world of programming  👋
 ##### I love dogs, cats (animals in general) and, of course, videogames and robotics!
-`hellou` for dark mode.
+Probably one of the biggest interest dicovered on my way out of university is programming. I'm a Mechanical Engineer for career, but with `python´ in the heart, and other languages like `C´ or `C++´ for obligation.
 <!--
 **cmissene/cmissene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

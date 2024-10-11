@@ -7,7 +7,10 @@ Probably one of the biggest interest dicovered on my way out of university is pr
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@```
-
+<p>
+Quack quack
+<text color=red>ERROR</text>
+</p>
 <!--
 **cmissene/cmissene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

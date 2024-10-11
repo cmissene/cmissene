@@ -1,6 +1,6 @@
 ## Hi everyone, it's me, Consuelo, walking towards the exciting world of programming  👋
 ##### I love dogs, cats (animals in general) and, of course, videogames and robotics!
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+`#000000` for dark mode.
 <!--
 **cmissene/cmissene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,8 @@
-## Hi everyone, it's me, Consuelo, walking towards the exciting world of programming  👋
-### I love dogs, cats (animals in general) and, of course, videogames and robotics!
-#### Probably one of the biggest interest dicovered on my way out from university is programming. I'm Mechanical Engineer for career, but with `python` in the heart, and other languages like `Dart`, `R` or `C++` by obligation.
+## Hi everyone, it's me, Consuelo, stepping into the exciting world of programming  👋
+### I love dogs, cats (animals in general), and of course, video games and robotics!
+#### One of the greatest interests I discovered during university is programming. I'm a Mechanical Engineer by profession, but `python` holds a special place in my heart, while other languages like `Dart`, `R` or `C++` are more out of necessity.
 <div align="center">
-  Here I let something I guess would interests you. Hope you enjoy it as much as I do:
+  Here's something I think might interest you. I hope you enjoy it as much as I do:
 </div>
 <div align="center">
   <img src="/videoframe_1702.png" alt="Imagen ajustada" width="200" />
